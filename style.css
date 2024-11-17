@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: rgb(185, 147, 97), 119);
+  background-color: rgb(187, 167, 123);
 }
 
 .nav-bar {
@@ -17,6 +17,9 @@ body {
   background-color: #241919;
   color: white;
   font-size: 30px;
+}
+.images-div {
+  margin-top: 6px;
 }
 span{
   color: orange;
@@ -31,10 +34,20 @@ table {
 th, td {
   padding: 10px;
   border: 1px solid #ddd;
-  text-align: left;
+  text-align: center;
 }
 th {
   background-color: #f4f4f4;
+}
+.a{
+  text-decoration: none;
+}
+.a:hover{
+  font-size: 20px;
+  background-color: orange;
+  color: white;
+  border: 1px solid black;
+  border-radius: 10px;
 }
 
 
