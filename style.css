@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  gap: 350px;
+  padding: 10px 20px;
+  background-color: #241919;
+  color: white;
+  font-size: 30px;
+}
+span{
+  color: orange;
+  font-size: 60px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 18px;
+}
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+th {
+  background-color: #f4f4f4;
+}
+
+
